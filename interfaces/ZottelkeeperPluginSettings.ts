@@ -13,7 +13,7 @@ export interface ZoottelkeeperPluginSettings {
   fileEmoji: string;
   enableEmojis: boolean;
   foldersIncluded: string;
-  foldersExcluded: string;
+  // foldersExcluded: string;
   sortOrder: SortOrder;
   addSquareBrackets: boolean;
   embedSubIndex: boolean;
